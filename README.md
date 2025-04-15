@@ -20,7 +20,7 @@ A reusable Higher-Order Component (HOC) for **role-based access control** and **
 
 ```bash
 git clone https://github.com/abhijitmanna912001/Role-Based-Access-HOC.git
-cd with-access-control
+cd role-based-access-hoc
 npm install
 npm run dev
 ```
